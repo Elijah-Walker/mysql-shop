@@ -1,1 +1,2 @@
-# mysql-shop
+A basic clone of an online shop in which the user picks from a list of items and buys the amount they wish, then displays the total cost. 
+Using mysql, it keeps track of how many items are in stock, and if out of stock, prevents the user from making the purchase.
